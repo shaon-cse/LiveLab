@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LiveLab/static/css/main.0eaf06ef.chunk.css",
+    "main.js": "/LiveLab/static/js/main.13abfd62.chunk.js",
+    "main.js.map": "/LiveLab/static/js/main.13abfd62.chunk.js.map",
+    "runtime-main.js": "/LiveLab/static/js/runtime-main.3eb64bcc.js",
+    "runtime-main.js.map": "/LiveLab/static/js/runtime-main.3eb64bcc.js.map",
+    "static/css/2.eb80d3a0.chunk.css": "/LiveLab/static/css/2.eb80d3a0.chunk.css",
+    "static/js/2.8d0ff885.chunk.js": "/LiveLab/static/js/2.8d0ff885.chunk.js",
+    "static/js/2.8d0ff885.chunk.js.map": "/LiveLab/static/js/2.8d0ff885.chunk.js.map",
+    "index.html": "/LiveLab/index.html",
+    "static/css/2.eb80d3a0.chunk.css.map": "/LiveLab/static/css/2.eb80d3a0.chunk.css.map",
+    "static/css/main.0eaf06ef.chunk.css.map": "/LiveLab/static/css/main.0eaf06ef.chunk.css.map",
+    "static/js/2.8d0ff885.chunk.js.LICENSE.txt": "/LiveLab/static/js/2.8d0ff885.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eb64bcc.js",
+    "static/css/2.eb80d3a0.chunk.css",
+    "static/js/2.8d0ff885.chunk.js",
+    "static/css/main.0eaf06ef.chunk.css",
+    "static/js/main.13abfd62.chunk.js"
+  ]
+}
