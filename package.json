@@ -2,15 +2,15 @@
   "name": "LiveLab",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<your-github-username>.github.io/<your-repo-name>",
+  "homepage": "https://shaon-cse.github.io/LiveLab/",
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "codemirror": "^5.65.5",
-    "react-codemirror2": "^7.2.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/react-fontawesome": "^0.1.14",
-    "@fortawesome/free-solid-svg-icons": "^5.15.4"
+    "codemirror": "^5.65.5",
+    "react": "^17.0.2",
+    "react-codemirror2": "^7.2.1",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
